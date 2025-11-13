@@ -6,13 +6,12 @@
   <p>
     <em>Pronta para produção, containerizada com Docker e construída com arquitetura limpa.</em>
   </p>
-  <p>
-    <img src="[https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=.net](https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=.net)" alt=".NET 8">
-    <img src="[https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver](https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver)" alt="SQL Server">
-    <img src="[https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)" alt="Docker">
-    <img src="[https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)" alt="Licença MIT">
-  </p>
 </div>
+
+[![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=.net)](https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=.net)
+[![.SQL SERVER](https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver)](https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver)
+[![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
+[![MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)
 
 ## 📖 Sobre o Projeto
 
